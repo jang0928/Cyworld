@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/dao/Background_Dao.java=UTF-8
+encoding//src/dao/Board_Dao.java=UTF-8
+encoding//src/dao/Font_Dao.java=UTF-8
+encoding//src/dao/Main_Dao.java=UTF-8
+encoding//src/dao/Members_Dao.java=UTF-8
+encoding//src/sistProject3/database/A00_Dao.java=UTF-8
+encoding//src/sistProject3/database/Board_Dao.java=UTF-8
+encoding//src/sistProject3/database/FriendList_Dao.java=UTF-8
+encoding//src/sistProject3/database/GuestbookDao.java=UTF-8
+encoding//src/sistProject3/database/Main_Dao.java=UTF-8
+encoding//src/sistProject3/database/ProfileDao.java=UTF-8
+encoding//src/sistProject3/mvc/A00_LoginDBSessCtrl.java=UTF-8
+encoding//src/sistProject3/mvc/MainController.java=UTF-8
