@@ -3,7 +3,7 @@
 
 ### 프로젝트 기획 의도 
 한때 많이 이용했던 싸이월드 미니홈피를 요즘의 감성에 맞게 새롭게 구축을 하여
-추억을 되살리고자 미니홈피를 주제로 선정하게 되었습니다
+추억을 되살리고자 간단한 미니홈피를 기획
 ### 프로젝트 기간
   +  2021.02.26 ~ 2021.03.25 
 ###  데이터 베이스 구조 
@@ -65,9 +65,6 @@
 ![image](https://user-images.githubusercontent.com/59501566/117629752-73819080-b1b5-11eb-87bd-c0be6abf713f.png)
 
 
-//
-![image](https://user-images.githubusercontent.com/59501566/117630358-13d7b500-b1b6-11eb-876a-f7ac88997b2e.png)
-
 
 1. 정보 카운트
   > 전체 회원 수 , 게시글 , 폰트 및 배경화면 갯수를 카운트하여 조회함
@@ -76,10 +73,25 @@
   >> 회원 검색 기능
   >>> 회원 이름 더블 클릭하여 상세정보 조회 -> 삭제 기능 
  ![image](https://user-images.githubusercontent.com/59501566/117630277-fefb2180-b1b5-11eb-90b6-1d5c8cdbe8d4.png)
+ >>>![image](https://user-images.githubusercontent.com/59501566/117630358-13d7b500-b1b6-11eb-876a-f7ac88997b2e.png)
+ 
+3. 게시글 관리 
+  > 회원 전체의 게시글 조회 
+  >> 게시글 검색 기능 
+  >>> 게시글  더블 클릭하여 상세정보 조회 -> 삭제 기능 
+  >>> ![image](https://user-images.githubusercontent.com/59501566/117630815-89438580-b1b6-11eb-9996-bcfbb90081dd.png)
+  >>> ![image](https://user-images.githubusercontent.com/59501566/117630836-8ea0d000-b1b6-11eb-8446-18202973e6f5.png)
 
-3.
 
-## 프로젝트 데모: 사진, 동영상, 웹사이트 형식 웹 프로젝트라면 웹사이트 형식이 가장 좋다.
+4. 배경 관리
+ > 배경 url 및  배경 이름 등록
+ >> 배경 목록을 통한 등록된 배경 정보 조회 및 카운트 
+5. 폰트 관리 
+ > 폰트 이름 , url , font- family 등록
+ >> 폰트 목록을 통한 등록된 폰트 정보 조회 및 카운트
+
+
+
 
 
 
