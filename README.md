@@ -19,8 +19,11 @@
 
 ![image](https://user-images.githubusercontent.com/59501566/117626036-a45fc680-b1b1-11eb-8fac-eced0cf2f502.png)
  
-  + 로그인 페이지에서의 id,passward 를 받아와 권한에 따라 관리자페이지, 메인 페이지로 이동합니다. 
-  + 아이디의 권한이 master, staff 라면 관리자 페이지로 이동합니다. 
+  + 로그인 페이지에서의 id,passward 를 받아와 권한에 따라 관리자페이지, 메인 페이지로 이동
+  + 아이디의 권한이 master, staff 라면 관리자 페이지로 이동
+  + 회원가입을 통한 회원생성
+  + 등록 된 폰 번호로 id 찾기 기능
+  + 등록 된 id, 폰 번호로 패스워드 찾기 기능 
  
 ### 회원 기능  
 ---
